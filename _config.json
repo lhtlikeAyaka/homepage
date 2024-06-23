@@ -1,14 +1,14 @@
 {
-  "title": "小鱼档案",
-  "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+  "title": "lht档案",
+  "description": "有关lht的《蔚蓝档案》风格的个人主页",
   "favicon": "/favicon144.png",
-  "author": "小鱼yuzifu",
-  "keywords": "蔚蓝档案,小鱼yuzifu,个人主页",
+  "author": "lht",
+  "keywords": "蔚蓝档案,lht,个人主页",
   "ICP": "",
   "manifest": {
-    "name": "小鱼档案",
-    "short_name": "小鱼档案",
-    "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+    "name": "lht档案",
+    "short_name": "lht档案",
+    "description": "有关lht的《蔚蓝档案》风格的个人主页",
     "theme_color": "#128AFA",
     "start_url": "/",
     "id": "Homepage",
@@ -29,11 +29,7 @@
   "nextExp": 7216,
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
   "dock": [
-    {
-      "name": "一起吃小鱼",
-      "href": "https://gitee.com/sf-yuzifu/eat-fish-together",
-      "imgSrc": "/img/fish.png"
-    },
+    
     {
       "name": "编程猫格式工厂",
       "href": "https://gitee.com/sf-yuzifu/bcm_convertor",
@@ -58,17 +54,13 @@
   "contact": [
     {
       "name": "QQ",
-      "href": "https://wpa.qq.com/msgrd?v=3&uin=1906929246&site=qq&menu=yes&jumpflag=1",
+      "href": "https://wpa.qq.com/msgrd?v=3&uin=909959162&site=qq&menu=yes&jumpflag=1",
       "iconfont": "icon-qq"
     },
-    {
-      "name": "Gitee",
-      "href": "https://gitee.com/sf-yuzifu",
-      "iconfont": "icon-gitee"
-    },
+   
     {
       "name": "Github",
-      "href": "https://github.com/sf-yuzifu",
+      "href": "https://github.com/lhtlikeAyaka",
       "iconfont": "icon-github"
     },
     {
