@@ -24,20 +24,19 @@
       }
     ]
   },
-  "level": 78,
-  "exp": 7217,
-  "nextExp": 7216,
+  "level": 80,
+  "exp": 114514,
+  "nextExp": 1,
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
-  "dock": [
-    
+  "dock": [,
     {
-      "name": "编程猫格式工厂",
-      "href": "https://gitee.com/sf-yuzifu/bcm_convertor",
+      "name": "我的云盘",
+      "href": "https://alist.lht999.us.kg",
       "imgSrc": "/img/convertor.png"
     },
     {
-      "name": "Waddle编辑器",
-      "href": "https://waddle.coco-central.cn/",
+      "name": "闲人勿进",
+      "href": "https://tu.lht999.us.kg",
       "imgSrc": "/img/waddle2.png"
     },
     {
@@ -56,8 +55,7 @@
       "name": "QQ",
       "href": "https://wpa.qq.com/msgrd?v=3&uin=909959162&site=qq&menu=yes&jumpflag=1",
       "iconfont": "icon-qq"
-    },
-   
+    },,
     {
       "name": "Github",
       "href": "https://github.com/lhtlikeAyaka",
@@ -65,12 +63,12 @@
     },
     {
       "name": "BiliBili",
-      "href": "https://space.bilibili.com/447666445",
+      "href": "https://space.bilibili.com/2038875337",
       "iconfont": "icon-bilibili"
     }
   ],
   "task": {
     "name": "个人博客",
-    "href": "https://blog.yzf.moe/"
+    "href": "https://lhtblog.us.kg"
   }
 }
